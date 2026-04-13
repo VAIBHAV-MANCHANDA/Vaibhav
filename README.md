@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **manchandavaibhav915@gmail.com**
 
-- 📄 Know about my experiences (Programmer Analyst at Programware)
+- 📄 Know about my experiences 
+  (Programmer Analyst at Programware)
+  (Web Developer at Social Theka)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
